@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaviDhirani
-- 👀 I’m interested in IT and Cybersecurity
-- 🌱 I’m currently learning Azure DevOps and continuously improving my Office 365 management skills.
-- 📫 How to reach me ... ravidhirani.com
+- 👀 I am a passionate DevSecOps Lead 
+- 🌱 I’m currently pioneering GreenOps Lead DevSecOps Practices to make the world a greener place 
+- 📫 How to reach me ... ravnar.ltd 
 
 <!---
 RaviDhirani/RaviDhirani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
